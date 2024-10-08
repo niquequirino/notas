@@ -1,0 +1,26 @@
+#nota1,
+#nota2, 
+#nota3, 
+#nota4{
+    width: 15vw;
+    background: #4fa5fa;
+    color: #000;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+
+}
+
+input::placeholder{
+    color: #050505;
+    font-weight: 700;
+}
+
+
+#resultado {
+    display: flex;
+    justify-content: center;
+    width: 8vw;
+    border-radius: 5px;
+    margin: 30px;
+}
